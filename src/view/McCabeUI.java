@@ -3,7 +3,7 @@ package view;
 /**
  * Clase que representa la vista y se encarga de mostrar los resultados al usuario.
  */
-public class ComplexityView {
+public class McCabeUI {
     /**
      * Muestra la complejidad ciclomatica calculada.
      * 
